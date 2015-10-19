@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/api/dao/dao.iml" filepath="$PROJECT_DIR$/api/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testm/api.iml" filepath="$PROJECT_DIR$/testm/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testm/api/api (1).iml" filepath="$PROJECT_DIR$/testm/api/api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/testm/dao/dao.iml" filepath="$PROJECT_DIR$/testm/dao/dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testm/web/web (1).iml" filepath="$PROJECT_DIR$/testm/web/web (1).iml" />
     </modules>
   </component>
 </project>

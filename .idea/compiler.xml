@@ -22,9 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="dao" />
+        <module name="api (1)" />
         <module name="service" />
         <module name="test" />
+        <module name="web" />
+        <module name="web (1)" />
+      </profile>
+      <profile default="false" name="Annotation profile for dao" enabled="true">
+        <sourceOutputDir name="../../api/dao/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../api/dao/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dao" />
       </profile>
     </annotationProcessing>
   </component>

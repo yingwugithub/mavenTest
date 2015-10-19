@@ -31,8 +31,8 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/api/web" />
     <file type="web" url="file://$PROJECT_DIR$/service" />
+    <file type="web" url="file://$PROJECT_DIR$/testm/web" />
     <file type="web" url="file://$PROJECT_DIR$/web" />
   </component>
   <component name="IdProvider" IDEtalkID="0A28A4EFD793D5CADF62CDCC6296BB2E" />
